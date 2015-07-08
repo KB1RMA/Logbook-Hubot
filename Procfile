@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n Liona 
+web: bin/hubot -a irc -n Loggy
