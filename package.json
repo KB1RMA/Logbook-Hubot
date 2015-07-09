@@ -13,7 +13,8 @@
     "hubot-scripts": "^2.16.1",
     "hubot": "^2.13.2",
     "hubot-irc": "^0.2.7",
-    "hubot-quote-database": ""
+    "hubot-quote-database": "",
+    "hubot-seen": "^0.2.3"
   },
   "engines": {
     "node": "0.10.x"
