@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n Loggy
+web: bin/hubot -a irc
