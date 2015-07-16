@@ -6,5 +6,6 @@
   "hubot-redis-brain",
   "hubot-quote-database",
   "hubot-seen",
-  "hubot-tell"
+  "hubot-tell",
+  "hubot-url-title"
 ]

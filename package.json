@@ -15,7 +15,8 @@
     "hubot-irc": "^0.2.7",
     "hubot-quote-database": "",
     "hubot-tell": "*",
-    "hubot-seen": "^0.2.3"
+    "hubot-seen": "^0.2.3",
+    "hubot-url-title": "^1.2.1"
   },
   "engines": {
     "node": "0.10.x"
